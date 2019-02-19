@@ -3,27 +3,27 @@
 
 > Welcome, Collaborator!
 
-_The products_ decision tree begins with three constants:
+My decision tree begins with three constants:
 
 **Give | Tech | Love**
 
-**Giving**, or unconditional generosity, is an unbridled source of happiness and fulfilment for _the product_.
+**Giving**, or unconditional generosity, provides me an unbridled source of happiness and fulfilment.
 
-_The product_ considers all forms of contemporary **technology** as synonymous with progress and futurism. This is the only material possession _the product_ irrationally seeks.
+I considers all forms of contemporary **technology** as synonymous with progress and futurism. This is the only material possession I irrationally seeks.
 
-While _the product_ looks to maximise its positive impact on the world, that **love** necessarily propagates outwards, disproportionately benefiting those closest to _the product_.
+While I look to maximise my positive impact on the world, that **love** necessarily propagates outwards, disproportionately benefiting those closest to me.
 
 **Leadership | Management | Vision | Strategy**
 
-_The product_ would prefer not to be labelled any persons leader or manager. However, the products ideas, aspirations, and targetted scale of positive impact, necessitate effort multiplication, vision and strategy.
+I would prefer not to be labelled any persons leader or manager. However, my ideas, aspirations, and targetted scale of positive impact, necessitate effort multiplication, vision and strategy.
 
-In other words: _the product_ cannot achieve its goals alone.
+> I cannot achieve my goals alone.
 
-Therefore, _the product_ acknowledges that its career path is headed towards a position of leadership and seeks your patience as it navigates this unknown.
+Therefore, I acknowledge that my career path is headed towards a position of leadership and seek your patience as I navigates this unknown.
 
-_The product_ fundamentally agrees with and looks to live the principles of Modern Agile recognising that they enable crafting our best, most effective and impactful selves, teams and businesses.
+I fundamentally agree with and look to live the principles of Modern Agile, recognising that they enable crafting our best, most effective and impactful selves, teams and businesses.
 
-Given the above, _the product_ sincerely wishes to:
+Given the above, I sincerely wish to:
 
 - Make people awesome
 - Make safety a prerequisite
@@ -32,11 +32,11 @@ Given the above, _the product_ sincerely wishes to:
 
 ## Product Description
 
-Collaborative by default, _The product_ adds most value and performs most optimally when working with many users simultaneously.
+Collaborative by default, I add most value and perform most optimally when working with many people simultaneously.
 
-Direct, honest, immediate feedback and deep, challenging inquisition are preferred. _The product_ is unoffended.
+I am unoffended. Direct, honest, immediate feedback and deep, challenging inquisition are preferred.
 
-_The product_ seeks fun, dark humour and awkward silence shaking laughter at all hours of the day.
+I seek fun, dark humour and awkward silence shaking laughter at all hours of the day.
 
 Open, honest, confidential and compassionate communication guaranteed.
 
@@ -58,43 +58,43 @@ Non-violent. Unoffended. Non-judgemental.
 
 ## How not to use the product
 
-Cautiously. _The product_ comes with no warning labels, and you are encouraged not to apply any.
+Cautiously. I come with no warning labels, and you are encouraged not to apply any.
 
-Without prior thought. Come to _the product_ with an objective, critique or lesson - or seek one of the above from _the product_.
+Without prior thought. Come to me with an objective, critique or lesson - or seek one of the above from me.
 
-Without effort. Questions, research, evidence, your own perspective and opinions, these are the inputs _the product_ works most effectively with.
+Without effort. Questions, research, evidence, your own perspective and opinions, these are the inputs I work most effectively with.
 
-Selflessly. _The product_ is here to serve. _The products_ prime directive is you. _The product_ wants you to win.
+Selflessly. I am here to serve. My prime directive is you. I want you to win.
 
 ## How to interact with the product
 
-Directly. Seek out _the product_ personally. "Individuals and interactions over processes and tools."
+Directly. Seek me out personally. "Individuals and interactions over processes and tools."
 
 Immediately. Don't hesitate, don't wait.
 
-Honestly. Brutally honest. _The product_ is unoffended.
+Honestly. Brutally honest. I am unoffended.
 
-Inquisitively. _The product_ asks that you stoke its change momentum with questions, debate, challenge, perspectives, opinions and fact.
+Inquisitively. Stoke my change momentum with questions, debate, challenge, perspectives, opinions and fact.
 
 ## How to build the product
 
-Collaborate: Sit and work with _the product_ at any conceivable opportunity. We are better together.
+Collaborate: Sit and work with me at any conceivable opportunity. We are better together.
 
-Enquire: Come with compassion and learn of _the products_ core interests. Communicating them is hard and _the product_ needs practice.
+Enquire: Come with compassion and learn of my core interests. Communicating them is hard and I need practice.
 
 Educate: In the salient words of Ray Dalio: "I am a dumb shit and don't know anything". Everyone has something of value to teach. Always share your lessons, advice, interests and creations.
 
-Evaluate: Critique _the product_ whenever and as early as possible. _The product_ celebrates your perspective.
+Evaluate: Critique me whenever and as early as possible. I celebrate your perspective.
 
 ## Product Gotchas and Misconceptions
 
-_The product_ excels at feigned confidence and competence. Please challenge _the product_.
+I excel at feigned confidence and competence. Please challenge me.
 
-_The product_ espouses a preference for the scientific method and evidence based action, but rarely finds professional opportunity to practice this (Probably an excuse).
+I espouse a preference for the scientific method and evidence based action, but rarely finds professional opportunity to practice this (Probably an excuse).
 
-_The product_ is deeply concerned. Concerned for you, humanity, the world and our place in the universe. _The product_ is eager to participate in active and lively discourse that targets fomenting a better future for all people.
+I am deeply concerned. Concerned for you, humanity, the world and our place in the universe. I am eager to participate in active and lively discourse that targets fomenting a better future for all people.
 
-_The product_ often prioritises fun over thought and is prone to carry the joke too far. Should _the product_ offend unintentionally, it proactively asks for your forgiveness.
+I often prioritise fun over thought and I am prone to carrying the joke too far. Should I offend unintentionally, I ask for your forgiveness.
 
 
 
