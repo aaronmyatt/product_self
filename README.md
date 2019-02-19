@@ -9,7 +9,7 @@ My decision tree begins with three constants:
 
 **Giving**, or unconditional generosity, provides me an unbridled source of happiness and fulfilment.
 
-I considers all forms of contemporary **technology** as synonymous with progress and futurism. This is the only material possession I irrationally seeks.
+I considers all forms of contemporary **technology** as synonymous with progress and futurism. This is the only material possession I irrationally seek.
 
 While I look to maximise my positive impact on the world, that **love** necessarily propagates outwards, disproportionately benefiting those closest to me.
 
