@@ -19,9 +19,14 @@ I would prefer not to be labelled any persons leader or manager. However, my ide
 
 > I cannot achieve my goals alone.
 
-Therefore, I acknowledge that my career path is headed towards a position of leadership and seek your patience as I navigates this unknown.
+Striving for [Intellectual Humility](https://www.shanesnow.com/articles/intellectual-humility#the-power-of-intellectual-humility) is at the foundation of how I want to lead, therefore, I endeavour to:
 
-I fundamentally agree with and look to live the principles of Modern Agile, recognising that they enable crafting our best, most effective and impactful selves, teams and businesses.
+- Respect other peoples viewpoints
+- Not be intellectually overconfident
+- Separate my ego from intellect
+- Be willing to revise my viewpoints
+
+I fundamentally agree with and look to live the principles of [Modern Agile](http://modernagile.org/), recognising that they enable crafting our best, most effective and impactful selves, teams and businesses.
 
 Given the above, I sincerely wish to:
 
@@ -34,7 +39,7 @@ Given the above, I sincerely wish to:
 
 Collaborative by default, I add most value and perform most optimally when working with many people simultaneously.
 
-I am unoffended. Direct, honest, immediate feedback and deep, challenging inquisition are preferred.
+I am [unoffended](https://blog.cleancoder.com/uncle-bob/2018/12/16/unoffended.html). Direct, honest, immediate feedback and deep, challenging inquisition are preferred.
 
 I seek fun, dark humour and awkward silence shaking laughter at all hours of the day.
 
@@ -48,13 +53,13 @@ Never work alone.
 
 Seek to challenge and be challenged.
 
-Apply radical candour at every reasonable opportunity.
+Apply [radical candour](https://www.radicalcandor.com/about-radical-candor/) at every reasonable opportunity.
 
 Reset assumptions daily and proactively experiment.
 
 Altruism first. Them over you. Find the middle way.
 
-Non-violent. Unoffended. Non-judgemental.
+Non-violent. [Unoffended](https://blog.cleancoder.com/uncle-bob/2018/12/16/unoffended.html). Non-judgemental.
 
 ## How not to use the product
 
@@ -68,11 +73,11 @@ Selflessly. I am here to serve. My prime directive is you. I want you to win.
 
 ## How to interact with the product
 
-Directly. Seek me out personally. "Individuals and interactions over processes and tools."
+Directly. Seek me out personally. ["Individuals and interactions over processes and tools."](https://agilemanifesto.org)
 
 Immediately. Don't hesitate, don't wait.
 
-Honestly. Brutally honest. I am unoffended.
+Honestly. Brutally honest. I am [unoffended](https://blog.cleancoder.com/uncle-bob/2018/12/16/unoffended.html).
 
 Inquisitively. Stoke my change momentum with questions, debate, challenge, perspectives, opinions and fact.
 
@@ -82,7 +87,7 @@ Collaborate: Sit and work with me at any conceivable opportunity. We are better 
 
 Enquire: Come with compassion and learn of my core interests. Communicating them is hard and I need practice.
 
-Educate: In the salient words of Ray Dalio: "I am a dumb shit and don't know anything". Everyone has something of value to teach. Always share your lessons, advice, interests and creations.
+Educate: In the salient words of [Ray Dalio](https://www.principles.com/): "I am a dumb shit and don't know anything". Everyone has something of value to teach. Always share your lessons, advice, interests and creations.
 
 Evaluate: Critique me whenever and as early as possible. I celebrate your perspective.
 
@@ -95,6 +100,8 @@ I espouse a preference for the scientific method and evidence based action, but 
 I am deeply concerned. Concerned for you, humanity, the world and our place in the universe. I am eager to participate in active and lively discourse that targets fomenting a better future for all people.
 
 I often prioritise fun over thought and I am prone to carrying the joke too far. Should I offend unintentionally, I ask for your forgiveness.
+
+I favour intimacy. I like to hug! I suck at iniating - so... embrace me!
 
 
 
